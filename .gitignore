@@ -1,0 +1,10 @@
+!.gitkeep
+.variables
+npm-debug.log
+npm-debug.log*
+
+.DS_Store
+Icon
+
+node_modules
+bower_components
