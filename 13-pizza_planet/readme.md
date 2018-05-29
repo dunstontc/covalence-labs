@@ -1,7 +1,5 @@
 # Lab 13: Pizza Planet
 
-#### Covalence
-
 ## Info
 
 * You will be building a front-end and back-end for a space-themed pizza restaurant and arcade called Pizza Planet

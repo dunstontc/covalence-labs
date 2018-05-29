@@ -1,7 +1,5 @@
 # Lab 09: Chirper
 
-#### Covalence
-
 ## Info
 
 * You will be creating Chirper, a web-based messaging system

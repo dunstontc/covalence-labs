@@ -1,4 +1,4 @@
-# Lab 06: It's A Date! / speed-dating
+# Lab 06: It's A Date! 
 
 #### Covalence -- Full Stack: Spring 2017
 
