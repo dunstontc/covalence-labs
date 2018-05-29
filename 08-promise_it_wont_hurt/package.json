@@ -1,0 +1,20 @@
+{
+  "name": "lab-8_promise-it-wont-hurt",
+  "version": "1.0.0",
+  "description": "promise-it-wont-hurt workshop ",
+  "main": "index.js",
+  "scripts": {
+    "start": "promise-it-wont-hurt",
+    "help": "promise-it-wont-hurt help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www.github.com"
+  },
+  "author": "Clay D.",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise": "^4.1.0",
+    "promise-it-wont-hurt": "^1.0.0-alpha.2"
+  }
+}
