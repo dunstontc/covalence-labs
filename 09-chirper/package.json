@@ -5,7 +5,6 @@
   "scripts": {
     "test": "mocha server/serverTests"
   },
-  "author": "Platypi",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
