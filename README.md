@@ -10,11 +10,10 @@
 8. Promise It Won't Hurt
 9. Chirper
 10. Chirper Express 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
+11. Chirper Express: The SeQueL - Part 1
+12. Chirper Express: The SeQueL - Part 2
+13. Pizza Planet
+14. Context Clues
+15. Dicey Business
+16. Shape Up Or Shape Out
+17. Return of the Chirps: A New Angle

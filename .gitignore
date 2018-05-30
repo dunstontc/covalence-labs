@@ -1,4 +1,10 @@
-**/.env
+#   ┌─┐┬┌┬┐┬┌─┐┌┐┌┌─┐┬─┐┌─┐
+#   │ ┬│ │ ││ ┬││││ │├┬┘├┤
+#  o└─┘┴ ┴ ┴└─┘┘└┘└─┘┴└─└─┘
+
+!.gitkeep
 **/.DS_Store
+**/tags
+**/.env
 **/node_modules
 **/bower_components
