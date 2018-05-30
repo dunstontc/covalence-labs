@@ -1,4 +1,4 @@
-Icon
-.DS_Store 
-node_modules
-bower_components
+**/.env
+**/.DS_Store
+**/node_modules
+**/bower_components
