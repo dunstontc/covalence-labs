@@ -1,7 +1,5 @@
 # Lab 06: It's A Date! 
 
-#### Covalence -- Full Stack: Spring 2017
-
 ## Info
 
 * Using JavaScript to calculate time and dates is pretty simple with its [Date object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date). The thing is, it doesn't format the date. For example:

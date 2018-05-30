@@ -1,7 +1,5 @@
 # Lab 04: squares-lab
 
-#### Covalence -- Full Stack: Spring 2017
-
 ### Instructions
 
 There are several supporting frameworks to interact act with the [DOM](https://en.wikipedia.org/wiki/Document_Object_Model). 

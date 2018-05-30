@@ -1,7 +1,5 @@
 # Lab 08: Promise It Won't Hurt
 
-#### Covalence -  Full Stack: Spring 2017
-
 ## Info
 
 * This lab will make use of a Terminal-based workshop
